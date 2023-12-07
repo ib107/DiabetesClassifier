@@ -1,4 +1,4 @@
-# Diabetic Classifier via Machine Learning Models
+# Diabetic Classifier 
 This project aims to predict the likelihood of diabetes in individuals based on various health indicators using machine learning techniques.
 
 # Overview
